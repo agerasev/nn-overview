@@ -8,20 +8,23 @@
 
 + Практика. Фреймворки: PyTorch, TensorFlow, Keras. Оборудование: CPU, GPU, TPU.
 
-+ Примеры кода. Распознавание рукописных цифр MNIST. [Andrej Karpathy's min-char-rnn](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
++ Примеры кода. [Распознавание рукописных цифр MNIST](mnist-cnn.ipynb).
+
++ Пример простейшей рекуррентной сети: [Andrej Karpathy's min-char-rnn](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
 + Примеры
   + GAN
     + [This person does not exist](https://thispersondoesnotexist.com/)
     + [Which face is real](http://www.whichfaceisreal.com/)
-    + (GauGAN)[http://nvidia-research-mingyuliu.com/gaugan]
+    + [GauGAN](http://nvidia-research-mingyuliu.com/gaugan)
   + Обучение с подкреплением
     + [OpenAI's Hide and seek](https://openai.com/blog/emergent-tool-use/)
     + [AlphaZero и AlphaGo](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go)
+    + [AlphaFold](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
   + Adversarial examples
     + [Adversarial patch](https://www.youtube.com/watch?v=i1sp4X57TL4)
     + [https://www.youtube.com/watch?v=MIbFvK2S9g8](https://www.youtube.com/watch?v=MIbFvK2S9g8)
 
 + Материалы
-  + [Курс Семёна Козлова](https://dlcourse.ai/)
+  + [Курс Семёна Козлова в НГУ](https://dlcourse.ai/)
   + [Мини-курс Alfredo Canziani](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
